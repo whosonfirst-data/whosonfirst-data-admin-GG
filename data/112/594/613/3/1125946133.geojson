@@ -1,0 +1,90 @@
+{
+  "id": 1125946133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58778,49.42694,-2.58778,49.42694",
+    "geom:latitude":49.42694,
+    "geom:longitude":-2.58778,
+    "gn:gn_country":"GG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GG",
+    "lbl:latitude":49.42694,
+    "lbl:longitude":-2.58778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Le Variouf"
+    ],
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":"GG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6420232,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Le Variuof",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":211,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":211,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230043,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20700949,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420232,
+        "gp:id":20700949,
+        "qs_pg:id":230043
+    },
+    "wof:country":"GG",
+    "wof:created":1497297288,
+    "wof:geomhash":"0131a82a44a1d1dfc1688847cb51da59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "locality_id":1125946133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125946133,
+    "wof:lastmodified":1509402399,
+    "wof:name":"Le Variuof",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58778,
+    49.42694,
+    -2.58778,
+    49.42694
+],
+  "geometry": {"coordinates":[-2.58778,49.42694],"type":"Point"}
+}

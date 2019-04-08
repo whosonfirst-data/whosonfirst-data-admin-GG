@@ -1,0 +1,69 @@
+{
+  "id": 1343473657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21667,49.71667,-2.21667,49.71667",
+    "geom:latitude":49.71667,
+    "geom:longitude":-2.21667,
+    "gn:admin1_code":"00",
+    "gn:admin2_code":"00",
+    "gn:asciiname":"Roque Tourgis",
+    "gn:country_code":"GG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042291,
+    "gn:latitude":49.71667,
+    "gn:longitude":-2.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Roque Tourgis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Roque Tourgis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042291
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"6c6116c544a6ccfd10fcc3e99c964096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1343473657,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1343473657,
+    "wof:lastmodified":1537623384,
+    "wof:name":"Roque Tourgis",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21667,
+    49.71667,
+    -2.21667,
+    49.71667
+],
+  "geometry": {"coordinates":[-2.21667,49.71667],"type":"Point"}
+}

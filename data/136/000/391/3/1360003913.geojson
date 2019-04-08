@@ -1,0 +1,68 @@
+{
+  "id": 1360003913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.61667,49.44417,-2.61667,49.44417",
+    "geom:latitude":49.44417,
+    "geom:longitude":-2.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sous l'Eglise",
+    "gn:country_code":"GG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424077,
+    "gn:latitude":49.44417,
+    "gn:longitude":-2.61667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sous l\u2019Eglise",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sous l\u2019Eglise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424077
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"eb7aacea0583af4b70cc3e898af1abda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1360003913,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1360003913,
+    "wof:lastmodified":1537623391,
+    "wof:name":"Sous l'Eglise",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.61667,
+    49.44417,
+    -2.61667,
+    49.44417
+],
+  "geometry": {"coordinates":[-2.61667,49.44417],"type":"Point"}
+}

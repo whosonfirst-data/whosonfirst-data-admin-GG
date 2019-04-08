@@ -1,0 +1,69 @@
+{
+  "id": 1226660619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63222,49.42778,-2.63222,49.42778",
+    "geom:latitude":49.42778,
+    "geom:longitude":-2.63222,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Planel",
+    "gn:country_code":"GG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420107,
+    "gn:latitude":49.42778,
+    "gn:longitude":-2.63222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Le Planel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Planel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420107
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"0c4bb9a8f85e7fef8ea2aa0c001a7010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "locality_id":1226660619,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226660619,
+    "wof:lastmodified":1537623385,
+    "wof:name":"Le Planel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63222,
+    49.42778,
+    -2.63222,
+    49.42778
+],
+  "geometry": {"coordinates":[-2.63222,49.42778],"type":"Point"}
+}

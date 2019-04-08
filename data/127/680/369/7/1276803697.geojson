@@ -1,0 +1,71 @@
+{
+  "id": 1276803697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59583,49.4675,-2.59583,49.4675",
+    "geom:latitude":49.4675,
+    "geom:longitude":-2.59583,
+    "gn:admin1_code":"6417229",
+    "gn:asciiname":"Saint Germain",
+    "gn:country_code":"GG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6421930,
+    "gn:latitude":49.4675,
+    "gn:longitude":-2.59583,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"Saint Germain",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saint Germain"
+    ],
+    "name:und_x_variant":[
+        "St. Germain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6421930
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"448d4fc41bc64f5dfc5c3fdf373bace4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1276803697,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1276803697,
+    "wof:lastmodified":1537623390,
+    "wof:name":"Saint Germain",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59583,
+    49.4675,
+    -2.59583,
+    49.4675
+],
+  "geometry": {"coordinates":[-2.59583,49.4675],"type":"Point"}
+}

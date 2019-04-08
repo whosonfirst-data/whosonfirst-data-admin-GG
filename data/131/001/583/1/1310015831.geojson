@@ -1,0 +1,68 @@
+{
+  "id": 1310015831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64472,49.44722,-2.64472,49.44722",
+    "geom:latitude":49.44722,
+    "geom:longitude":-2.64472,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Pomare",
+    "gn:country_code":"GG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424182,
+    "gn:latitude":49.44722,
+    "gn:longitude":-2.64472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"La Pomare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Pomare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424182
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"ecd0859cf1addd8ea175cbb0a6ff4878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1310015831,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1310015831,
+    "wof:lastmodified":1537623392,
+    "wof:name":"La Pomare",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.64472,
+    49.44722,
+    -2.64472,
+    49.44722
+],
+  "geometry": {"coordinates":[-2.64472,49.44722],"type":"Point"}
+}

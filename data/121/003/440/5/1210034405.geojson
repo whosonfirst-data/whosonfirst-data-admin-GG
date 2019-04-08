@@ -1,0 +1,72 @@
+{
+  "id": 1210034405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37,49.42972,-2.37,49.42972",
+    "geom:latitude":49.42972,
+    "geom:longitude":-2.37,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Fregondee",
+    "gn:country_code":"GG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042377,
+    "gn:latitude":49.42972,
+    "gn:longitude":-2.37,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Fregond\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Fregond\u00e9e"
+    ],
+    "name:und_x_variant":[
+        "Fregondie",
+        "Fregond\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042377
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"af59e5519d25cac15b72633b683d7e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1210034405,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1210034405,
+    "wof:lastmodified":1537623385,
+    "wof:name":"La Fregondee",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37,
+    49.42972,
+    -2.37,
+    49.42972
+],
+  "geometry": {"coordinates":[-2.37,49.42972],"type":"Point"}
+}

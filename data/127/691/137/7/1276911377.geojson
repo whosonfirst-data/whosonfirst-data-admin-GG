@@ -1,0 +1,74 @@
+{
+  "id": 1276911377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.50889,49.49944,-2.50889,49.49944",
+    "geom:latitude":49.49944,
+    "geom:longitude":-2.50889,
+    "gn:admin1_code":"6417230",
+    "gn:asciiname":"La Rochelle",
+    "gn:country_code":"GG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420453,
+    "gn:latitude":49.49944,
+    "gn:longitude":-2.50889,
+    "gn:modification_date":"2014-07-16",
+    "gn:name":"La Rochelle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Rochelle"
+    ],
+    "name:eng_x_preferred":[
+        "La Rochelle"
+    ],
+    "name:fra_x_preferred":[
+        "La Rochelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420453
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"7ae5db3fc8b11b38f4b5e4a6a88325cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1276911377,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1276911377,
+    "wof:lastmodified":1537550559,
+    "wof:name":"La Rochelle",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.50889,
+    49.49944,
+    -2.50889,
+    49.49944
+],
+  "geometry": {"coordinates":[-2.50889,49.49944],"type":"Point"}
+}

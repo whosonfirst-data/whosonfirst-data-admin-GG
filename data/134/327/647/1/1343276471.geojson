@@ -1,0 +1,68 @@
+{
+  "id": 1343276471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.545,49.48778,-2.545,49.48778",
+    "geom:latitude":49.48778,
+    "geom:longitude":-2.545,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Islet",
+    "gn:country_code":"GG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420923,
+    "gn:latitude":49.48778,
+    "gn:longitude":-2.545,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"L\u2019Islet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u2019Islet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420923
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"763d4f1445c48ce4cc4433d6372b959c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1343276471,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1343276471,
+    "wof:lastmodified":1537623389,
+    "wof:name":"L'Islet",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.545,
+    49.48778,
+    -2.545,
+    49.48778
+],
+  "geometry": {"coordinates":[-2.545,49.48778],"type":"Point"}
+}

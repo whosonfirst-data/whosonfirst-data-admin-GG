@@ -1,0 +1,68 @@
+{
+  "id": 1326840523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64972,49.45083,-2.64972,49.45083",
+    "geom:latitude":49.45083,
+    "geom:longitude":-2.64972,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rocque Poisson",
+    "gn:country_code":"GG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424147,
+    "gn:latitude":49.45083,
+    "gn:longitude":-2.64972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Rocque Poisson",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rocque Poisson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424147
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"77b3265f9429c936f3dc7dd18420b0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1326840523,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1326840523,
+    "wof:lastmodified":1537623391,
+    "wof:name":"Rocque Poisson",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.64972,
+    49.45083,
+    -2.64972,
+    49.45083
+],
+  "geometry": {"coordinates":[-2.64972,49.45083],"type":"Point"}
+}

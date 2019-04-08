@@ -1,0 +1,68 @@
+{
+  "id": 1293399907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54,49.49444,-2.54,49.49444",
+    "geom:latitude":49.49444,
+    "geom:longitude":-2.54,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Garenne",
+    "gn:country_code":"GG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420917,
+    "gn:latitude":49.49444,
+    "gn:longitude":-2.54,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"La Garenne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Garenne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420917
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"493c740e4d95aab7b1a627121fbe4766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1293399907,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1293399907,
+    "wof:lastmodified":1537623389,
+    "wof:name":"La Garenne",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54,
+    49.49444,
+    -2.54,
+    49.49444
+],
+  "geometry": {"coordinates":[-2.54,49.49444],"type":"Point"}
+}

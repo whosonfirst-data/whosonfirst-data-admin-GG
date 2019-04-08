@@ -1,0 +1,68 @@
+{
+  "id": 1343968093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56306,49.46694,-2.56306,49.46694",
+    "geom:latitude":49.46694,
+    "geom:longitude":-2.56306,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Baissieres",
+    "gn:country_code":"GG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6422023,
+    "gn:latitude":49.46694,
+    "gn:longitude":-2.56306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Les Baissieres",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Baissieres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422023
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"39a6b610e42dca7a4834472a62e9d794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1343968093,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1343968093,
+    "wof:lastmodified":1537623390,
+    "wof:name":"Les Baissieres",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56306,
+    49.46694,
+    -2.56306,
+    49.46694
+],
+  "geometry": {"coordinates":[-2.56306,49.46694],"type":"Point"}
+}

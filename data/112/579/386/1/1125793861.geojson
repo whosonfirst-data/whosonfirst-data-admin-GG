@@ -1,0 +1,89 @@
+{
+  "id": 1125793861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56833,49.43139,-2.56833,49.43139",
+    "geom:latitude":49.43139,
+    "geom:longitude":-2.56833,
+    "gn:gn_country":"GG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GG",
+    "lbl:latitude":49.43139,
+    "lbl:longitude":-2.56833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "La Villette"
+    ],
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":"GG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6424220,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Villette",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":483205,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20700954,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424220,
+        "gp:id":20700954,
+        "qs_pg:id":483205
+    },
+    "wof:country":"GG",
+    "wof:created":1497290971,
+    "wof:geomhash":"89381466a79d79f10f6286f29f2ee357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1125793861,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1125793861,
+    "wof:lastmodified":1509392490,
+    "wof:name":"La Villette",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56833,
+    49.43139,
+    -2.56833,
+    49.43139
+],
+  "geometry": {"coordinates":[-2.56833,49.43139],"type":"Point"}
+}

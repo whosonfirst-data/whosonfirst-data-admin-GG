@@ -1,0 +1,68 @@
+{
+  "id": 1327246091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57556,49.44167,-2.57556,49.44167",
+    "geom:latitude":49.44167,
+    "geom:longitude":-2.57556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Gouies",
+    "gn:country_code":"GG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424213,
+    "gn:latitude":49.44167,
+    "gn:longitude":-2.57556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Les Gouies",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Gouies"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424213
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"6ca36648028f79557fb07d50aca413f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1327246091,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1327246091,
+    "wof:lastmodified":1537623392,
+    "wof:name":"Les Gouies",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57556,
+    49.44167,
+    -2.57556,
+    49.44167
+],
+  "geometry": {"coordinates":[-2.57556,49.44167],"type":"Point"}
+}

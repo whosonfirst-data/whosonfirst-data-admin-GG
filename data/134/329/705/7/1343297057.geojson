@@ -1,0 +1,68 @@
+{
+  "id": 1343297057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.50833,49.50306,-2.50833,49.50306",
+    "geom:latitude":49.50306,
+    "geom:longitude":-2.50833,
+    "gn:admin1_code":"6417230",
+    "gn:asciiname":"La Lande",
+    "gn:country_code":"GG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420460,
+    "gn:latitude":49.50306,
+    "gn:longitude":-2.50833,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"La Lande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Lande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420460
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"d1ed1fd39935ac0b9a118ec3ea6ce8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1343297057,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1343297057,
+    "wof:lastmodified":1537623387,
+    "wof:name":"La Lande",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.50833,
+    49.50306,
+    -2.50833,
+    49.50306
+],
+  "geometry": {"coordinates":[-2.50833,49.50306],"type":"Point"}
+}

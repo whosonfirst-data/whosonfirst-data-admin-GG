@@ -1,0 +1,71 @@
+{
+  "id": 1209932387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.62361,49.45694,-2.62361,49.45694",
+    "geom:latitude":49.45694,
+    "geom:longitude":-2.62361,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mont Saint",
+    "gn:country_code":"GG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424052,
+    "gn:latitude":49.45694,
+    "gn:longitude":-2.62361,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Mont Saint",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mont St"
+    ],
+    "name:eng_x_variant":[
+        "Mont Saint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424052
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"d052d70cd114ebfb172af2e5ca6b6fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1209932387,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1209932387,
+    "wof:lastmodified":1537623391,
+    "wof:name":"Mont Saint",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.62361,
+    49.45694,
+    -2.62361,
+    49.45694
+],
+  "geometry": {"coordinates":[-2.62361,49.45694],"type":"Point"}
+}

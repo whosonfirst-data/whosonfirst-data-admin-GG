@@ -1,0 +1,68 @@
+{
+  "id": 1209833983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63389,49.43639,-2.63389,49.43639",
+    "geom:latitude":49.43639,
+    "geom:longitude":-2.63389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Hougue Falle",
+    "gn:country_code":"GG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424179,
+    "gn:latitude":49.43639,
+    "gn:longitude":-2.63389,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"La Hougue Falle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Hougue Falle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424179
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"12b2925c839a056c39e7b298194c3841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1209833983,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1209833983,
+    "wof:lastmodified":1537623392,
+    "wof:name":"La Hougue Falle",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63389,
+    49.43639,
+    -2.63389,
+    49.43639
+],
+  "geometry": {"coordinates":[-2.63389,49.43639],"type":"Point"}
+}

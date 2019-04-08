@@ -1,0 +1,68 @@
+{
+  "id": 1226052727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.60861,49.43889,-2.60861,49.43889",
+    "geom:latitude":49.43889,
+    "geom:longitude":-2.60861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Gron",
+    "gn:country_code":"GG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420212,
+    "gn:latitude":49.43889,
+    "gn:longitude":-2.60861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Le Gron",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Gron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420212
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"3a4f434caf8782337ed1e70f602be202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1226052727,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1226052727,
+    "wof:lastmodified":1537623386,
+    "wof:name":"Le Gron",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.60861,
+    49.43889,
+    -2.60861,
+    49.43889
+],
+  "geometry": {"coordinates":[-2.60861,49.43889],"type":"Point"}
+}

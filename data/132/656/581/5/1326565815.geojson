@@ -1,0 +1,68 @@
+{
+  "id": 1326565815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64611,49.45361,-2.64611,49.45361",
+    "geom:latitude":49.45361,
+    "geom:longitude":-2.64611,
+    "gn:admin1_code":"6417213",
+    "gn:asciiname":"Les Adams",
+    "gn:country_code":"GG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424153,
+    "gn:latitude":49.45361,
+    "gn:longitude":-2.64611,
+    "gn:modification_date":"2014-04-16",
+    "gn:name":"Les Adams",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Adams"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424153
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"1bdf83ab0406d51e1d62ad31ea977539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1326565815,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1326565815,
+    "wof:lastmodified":1537623391,
+    "wof:name":"Les Adams",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.64611,
+    49.45361,
+    -2.64611,
+    49.45361
+],
+  "geometry": {"coordinates":[-2.64611,49.45361],"type":"Point"}
+}

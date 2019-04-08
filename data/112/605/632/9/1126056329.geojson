@@ -1,0 +1,90 @@
+{
+  "id": 1126056329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.61722,49.43,-2.61722,49.43",
+    "geom:latitude":49.43,
+    "geom:longitude":-2.61722,
+    "gn:gn_country":"GG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GG",
+    "lbl:latitude":49.43,
+    "lbl:longitude":-2.61722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Les Heches"
+    ],
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":"GG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6420142,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Les Heches",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062979,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20700936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420142,
+        "gp:id":20700936,
+        "qs_pg:id":1062979
+    },
+    "wof:country":"GG",
+    "wof:created":1497303243,
+    "wof:geomhash":"bd47fb12905e54b67e25f41622f7cdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "locality_id":1126056329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126056329,
+    "wof:lastmodified":1509409652,
+    "wof:name":"Les Heches",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.61722,
+    49.43,
+    -2.61722,
+    49.43
+],
+  "geometry": {"coordinates":[-2.61722,49.43],"type":"Point"}
+}

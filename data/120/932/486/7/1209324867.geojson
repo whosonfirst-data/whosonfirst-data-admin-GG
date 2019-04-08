@@ -1,0 +1,64 @@
+{
+  "id": 1209324867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65139,49.42861,-2.65139,49.42861",
+    "geom:latitude":49.42861,
+    "geom:longitude":-2.65139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hougue Anthan",
+    "gn:country_code":"GG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420096,
+    "gn:latitude":49.42861,
+    "gn:longitude":-2.65139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hougue Anthan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hougue Anthan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420096
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"bba57a4a4c79984fe0c84549ccf251ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632547,
+            "locality_id":1209324867
+        }
+    ],
+    "wof:id":1209324867,
+    "wof:lastmodified":1537623385,
+    "wof:name":"Hougue Anthan",
+    "wof:parent_id":85632547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65139,
+    49.42861,
+    -2.65139,
+    49.42861
+],
+  "geometry": {"coordinates":[-2.65139,49.42861],"type":"Point"}
+}

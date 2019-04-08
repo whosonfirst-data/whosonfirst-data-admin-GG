@@ -1,0 +1,68 @@
+{
+  "id": 1242792251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51806,49.49667,-2.51806,49.49667",
+    "geom:latitude":49.49667,
+    "geom:longitude":-2.51806,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Clos du Valle",
+    "gn:country_code":"GG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420613,
+    "gn:latitude":49.49667,
+    "gn:longitude":-2.51806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Clos du Valle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Clos du Valle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420613
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"9aa1a9c9a8f3e136772cca16a340786c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1242792251,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1242792251,
+    "wof:lastmodified":1537623387,
+    "wof:name":"Clos du Valle",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51806,
+    49.49667,
+    -2.51806,
+    49.49667
+],
+  "geometry": {"coordinates":[-2.51806,49.49667],"type":"Point"}
+}

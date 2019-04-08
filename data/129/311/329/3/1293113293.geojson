@@ -1,0 +1,68 @@
+{
+  "id": 1293113293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5225,49.48806,-2.5225,49.48806",
+    "geom:latitude":49.48806,
+    "geom:longitude":-2.5225,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Tertre",
+    "gn:country_code":"GG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420639,
+    "gn:latitude":49.48806,
+    "gn:longitude":-2.5225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Le Tertre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Tertre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420639
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"4735947380f24c76501d7265e4d8d71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1293113293,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1293113293,
+    "wof:lastmodified":1537623388,
+    "wof:name":"Le Tertre",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5225,
+    49.48806,
+    -2.5225,
+    49.48806
+],
+  "geometry": {"coordinates":[-2.5225,49.48806],"type":"Point"}
+}

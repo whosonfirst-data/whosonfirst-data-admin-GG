@@ -1,0 +1,68 @@
+{
+  "id": 1343373427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53417,49.49611,-2.53417,49.49611",
+    "geom:latitude":49.49611,
+    "geom:longitude":-2.53417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Closios",
+    "gn:country_code":"GG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420620,
+    "gn:latitude":49.49611,
+    "gn:longitude":-2.53417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Closios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Closios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420620
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"46e8b36473dd70210d4b813d1c6cc72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1343373427,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1343373427,
+    "wof:lastmodified":1537623387,
+    "wof:name":"Closios",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53417,
+    49.49611,
+    -2.53417,
+    49.49611
+],
+  "geometry": {"coordinates":[-2.53417,49.49611],"type":"Point"}
+}

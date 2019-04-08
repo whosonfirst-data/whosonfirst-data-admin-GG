@@ -1,0 +1,68 @@
+{
+  "id": 1243584255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58194,49.45111,-2.58194,49.45111",
+    "geom:latitude":49.45111,
+    "geom:longitude":-2.58194,
+    "gn:admin1_code":"6417226",
+    "gn:asciiname":"Les Niaux",
+    "gn:country_code":"GG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424211,
+    "gn:latitude":49.45111,
+    "gn:longitude":-2.58194,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"Les Niaux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Niaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424211
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"26db70f8733b7ffe76b4bf41a54b0325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1243584255,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1243584255,
+    "wof:lastmodified":1537623392,
+    "wof:name":"Les Niaux",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58194,
+    49.45111,
+    -2.58194,
+    49.45111
+],
+  "geometry": {"coordinates":[-2.58194,49.45111],"type":"Point"}
+}

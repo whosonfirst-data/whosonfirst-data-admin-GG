@@ -1,0 +1,68 @@
+{
+  "id": 1209730387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59667,49.44889,-2.59667,49.44889",
+    "geom:latitude":49.44889,
+    "geom:longitude":-2.59667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Jaonnets",
+    "gn:country_code":"GG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424208,
+    "gn:latitude":49.44889,
+    "gn:longitude":-2.59667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Les Jaonnets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Jaonnets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424208
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"5597091b1ce3c58d1847dcfa1d10b593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1209730387,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1209730387,
+    "wof:lastmodified":1537623392,
+    "wof:name":"Les Jaonnets",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59667,
+    49.44889000000001,
+    -2.59667,
+    49.44889000000001
+],
+  "geometry": {"coordinates":[-2.59667,49.44889000000001],"type":"Point"}
+}

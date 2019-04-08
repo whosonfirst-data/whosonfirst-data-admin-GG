@@ -1,0 +1,68 @@
+{
+  "id": 1293893683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53694,49.49278,-2.53694,49.49278",
+    "geom:latitude":49.49278,
+    "geom:longitude":-2.53694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ivy Gate",
+    "gn:country_code":"GG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420666,
+    "gn:latitude":49.49278,
+    "gn:longitude":-2.53694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ivy Gate",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ivy Gate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420666
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"957220f8b3d551d7bcf1887fbd233726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1293893683,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1293893683,
+    "wof:lastmodified":1537623388,
+    "wof:name":"Ivy Gate",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53694,
+    49.49278,
+    -2.53694,
+    49.49278
+],
+  "geometry": {"coordinates":[-2.53694,49.49278],"type":"Point"}
+}

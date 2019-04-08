@@ -1,0 +1,68 @@
+{
+  "id": 1326560609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63111,49.43278,-2.63111,49.43278",
+    "geom:latitude":49.43278,
+    "geom:longitude":-2.63111,
+    "gn:admin1_code":"6417214",
+    "gn:asciiname":"Les Falles",
+    "gn:country_code":"GG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420130,
+    "gn:latitude":49.43278,
+    "gn:longitude":-2.63111,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"Les Falles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Falles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420130
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"ae7c4a85c8c30238bc3799ac5642bc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1326560609,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1326560609,
+    "wof:lastmodified":1537623386,
+    "wof:name":"Les Falles",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63111,
+    49.43278,
+    -2.63111,
+    49.43278
+],
+  "geometry": {"coordinates":[-2.63111,49.43278],"type":"Point"}
+}

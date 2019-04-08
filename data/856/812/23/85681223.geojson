@@ -1,0 +1,76 @@
+{
+  "id": 85681223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1053785.523262,
+    "geom:bbox":"-2.45506751196,49.4621442733,-2.44522050662,49.4839541693",
+    "geom:latitude":49.474406,
+    "geom:longitude":-2.450807,
+    "iso:country":"GG",
+    "lbl:latitude":49.47513,
+    "lbl:longitude":-2.450409,
+    "mps:latitude":49.47513,
+    "mps:longitude":-2.450409,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Minor islands of Guernsey"
+    ],
+    "qs:a0":"Guernsey",
+    "qs:a0_lc":"GG",
+    "qs:a1_lc":"GGY+99?",
+    "qs:adm0":"Guernsey",
+    "qs:adm0_a3":"GGY",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 minor island",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85632547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GG",
+    "wof:geomhash":"91c6916037125881d82ccac4e73a0c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "region_id":85681223
+        }
+    ],
+    "wof:id":85681223,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1536173686,
+    "wof:name":"Minor islands of Guernsey",
+    "wof:parent_id":85632547,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.45506751195609,
+    49.46214427333962,
+    -2.44522050662101,
+    49.48395416934949
+],
+  "geometry": {"coordinates":[[[-2.45368404887972,49.48187897293633],[-2.44782467346988,49.48395416934949],[-2.44522050662101,49.47459544552345],[-2.45335852757393,49.46214427333962],[-2.45449785079512,49.4661319032648],[-2.45506751195609,49.47504303630711],[-2.45368404887972,49.48187897293633]]],"type":"Polygon"}
+}

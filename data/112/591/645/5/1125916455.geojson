@@ -1,0 +1,92 @@
+{
+  "id": 1125916455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.60306,49.45778,-2.60306,49.45778",
+    "geom:latitude":49.45778,
+    "geom:longitude":-2.60306,
+    "gn:gn_country":"GG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GG",
+    "lbl:latitude":49.45778,
+    "lbl:longitude":-2.60306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "King\u2019s Mills"
+    ],
+    "name:unk_x_variant":[
+        "Queux Kings Mill"
+    ],
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":"GG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042350,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kings Mills",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":9492,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20700910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042350,
+        "gp:id":20700910,
+        "qs_pg:id":9492
+    },
+    "wof:country":"GG",
+    "wof:created":1497296332,
+    "wof:geomhash":"b3f8ac5b3feb85f34b02ec704e53d767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1125916455,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1125916455,
+    "wof:lastmodified":1509400578,
+    "wof:name":"Kings Mills",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.60306,
+    49.45778,
+    -2.60306,
+    49.45778
+],
+  "geometry": {"coordinates":[-2.60306,49.45778],"type":"Point"}
+}

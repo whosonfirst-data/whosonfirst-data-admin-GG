@@ -1,0 +1,68 @@
+{
+  "id": 1259702033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51444,49.49306,-2.51444,49.49306",
+    "geom:latitude":49.49306,
+    "geom:longitude":-2.51444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hougue Moulin",
+    "gn:country_code":"GG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420627,
+    "gn:latitude":49.49306,
+    "gn:longitude":-2.51444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hougue Moulin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hougue Moulin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420627
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"a60cfa80777d70f71826d625f66aa025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1259702033,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1259702033,
+    "wof:lastmodified":1537623387,
+    "wof:name":"Hougue Moulin",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51444,
+    49.49306,
+    -2.51444,
+    49.49306
+],
+  "geometry": {"coordinates":[-2.51444,49.49306],"type":"Point"}
+}

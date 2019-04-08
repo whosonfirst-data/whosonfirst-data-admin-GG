@@ -1,0 +1,65 @@
+{
+  "id": 1209749515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57306,49.45722,-2.57306,49.45722",
+    "geom:latitude":49.45722,
+    "geom:longitude":-2.57306,
+    "gn:admin1_code":"6417226",
+    "gn:asciiname":"La Chaumiere",
+    "gn:country_code":"GG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6422027,
+    "gn:latitude":49.45722,
+    "gn:longitude":-2.57306,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"La Chaumi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422027
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"a699609b714bd6b627fd014bdcc16573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1209749515,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1209749515,
+    "wof:lastmodified":1536393436,
+    "wof:name":"La Chaumiere",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57306,
+    49.45722,
+    -2.57306,
+    49.45722
+],
+  "geometry": {"coordinates":[-2.57306,49.45722],"type":"Point"}
+}

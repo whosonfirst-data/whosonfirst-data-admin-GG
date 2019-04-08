@@ -1,0 +1,92 @@
+{
+  "id": 1125986963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58333,49.48389,-2.58333,49.48389",
+    "geom:latitude":49.48389,
+    "geom:longitude":-2.58333,
+    "gn:gn_country":"GG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GG",
+    "lbl:latitude":49.48389,
+    "lbl:longitude":-2.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Grandes Rocques"
+    ],
+    "name:unk_x_variant":[
+        "Grande Roque"
+    ],
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":"GG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042368,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Grandes Rocques",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":783,
+    "qs_pg:photos_1k":159,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":783,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887665,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538468,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042368,
+        "gp:id":538468,
+        "qs_pg:id":887665
+    },
+    "wof:country":"GG",
+    "wof:created":1497298860,
+    "wof:geomhash":"7845540f1b337cbc16ea2c948901303b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1125986963,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1125986963,
+    "wof:lastmodified":1509405129,
+    "wof:name":"Grandes Rocques",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58333,
+    49.48389,
+    -2.58333,
+    49.48389
+],
+  "geometry": {"coordinates":[-2.58333,49.48389],"type":"Point"}
+}

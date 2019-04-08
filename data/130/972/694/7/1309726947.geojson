@@ -1,0 +1,71 @@
+{
+  "id": 1309726947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.55611,49.47139,-2.55611,49.47139",
+    "geom:latitude":49.47139,
+    "geom:longitude":-2.55611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Ramee",
+    "gn:country_code":"GG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042342,
+    "gn:latitude":49.47139,
+    "gn:longitude":-2.55611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Ram\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Ram\u00e9e"
+    ],
+    "name:und_x_variant":[
+        "Ramee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042342
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"1316a7a12c600e3fd2889656cd191907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1309726947,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1309726947,
+    "wof:lastmodified":1537623385,
+    "wof:name":"La Ramee",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.55611,
+    49.47139,
+    -2.55611,
+    49.47139
+],
+  "geometry": {"coordinates":[-2.55611,49.47139],"type":"Point"}
+}

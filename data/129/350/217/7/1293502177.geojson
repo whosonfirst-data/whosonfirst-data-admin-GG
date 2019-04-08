@@ -1,0 +1,68 @@
+{
+  "id": 1293502177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63194,49.44278,-2.63194,49.44278",
+    "geom:latitude":49.44278,
+    "geom:longitude":-2.63194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Eclet",
+    "gn:country_code":"GG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424080,
+    "gn:latitude":49.44278,
+    "gn:longitude":-2.63194,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"L\u2019Eclet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u2019Eclet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424080
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"e45b1a93b64fff8e01a7b8842c0e8172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1293502177,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1293502177,
+    "wof:lastmodified":1537623391,
+    "wof:name":"L'Eclet",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63194,
+    49.44278,
+    -2.63194,
+    49.44278
+],
+  "geometry": {"coordinates":[-2.63194,49.44278],"type":"Point"}
+}

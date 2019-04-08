@@ -1,0 +1,68 @@
+{
+  "id": 1276557683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64333,49.43667,-2.64333,49.43667",
+    "geom:latitude":49.43667,
+    "geom:longitude":-2.64333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Coudre",
+    "gn:country_code":"GG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420114,
+    "gn:latitude":49.43667,
+    "gn:longitude":-2.64333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Le Coudr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Coudr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420114
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"7e5ecd962a8aafa37fe674778a3f82c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1276557683,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1276557683,
+    "wof:lastmodified":1537623385,
+    "wof:name":"Le Coudre",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.64333,
+    49.43667,
+    -2.64333,
+    49.43667
+],
+  "geometry": {"coordinates":[-2.64333,49.43667],"type":"Point"}
+}

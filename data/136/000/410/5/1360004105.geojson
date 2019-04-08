@@ -1,0 +1,68 @@
+{
+  "id": 1360004105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54667,49.47694,-2.54667,49.47694",
+    "geom:latitude":49.47694,
+    "geom:longitude":-2.54667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hougue Nicolle",
+    "gn:country_code":"GG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420935,
+    "gn:latitude":49.47694,
+    "gn:longitude":-2.54667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hougue Nicolle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hougue Nicolle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420935
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"7b2b0bea669e19f534f4cc5752d1fc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1360004105,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1360004105,
+    "wof:lastmodified":1537623389,
+    "wof:name":"Hougue Nicolle",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54667,
+    49.47694,
+    -2.54667,
+    49.47694
+],
+  "geometry": {"coordinates":[-2.54667,49.47694],"type":"Point"}
+}

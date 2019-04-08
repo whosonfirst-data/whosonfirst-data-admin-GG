@@ -1,0 +1,68 @@
+{
+  "id": 1226477593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58306,49.43333,-2.58306,49.43333",
+    "geom:latitude":49.43333,
+    "geom:longitude":-2.58306,
+    "gn:admin1_code":"6417224",
+    "gn:asciiname":"Les Pieces",
+    "gn:country_code":"GG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420224,
+    "gn:latitude":49.43333,
+    "gn:longitude":-2.58306,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"Les Pieces",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Pieces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420224
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"0350a4264baae99c086f68050eca91e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1226477593,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1226477593,
+    "wof:lastmodified":1537623386,
+    "wof:name":"Les Pieces",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58306,
+    49.43333,
+    -2.58306,
+    49.43333
+],
+  "geometry": {"coordinates":[-2.58306,49.43333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309740661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.20757,49.71549,-2.20757,49.71549",
+    "geom:latitude":49.71549,
+    "geom:longitude":-2.20757,
+    "gn:admin1_code":"8989934",
+    "gn:asciiname":"St Anne",
+    "gn:cc2":"GB",
+    "gn:country_code":"GG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3042289,
+    "gn:latitude":49.71549,
+    "gn:longitude":-2.20757,
+    "gn:modification_date":"2016-11-03",
+    "gn:name":"St Anne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saint Anne"
+    ],
+    "name:und_x_variant":[
+        "St. Anne",
+        "Saint Annes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042289,
+        "wk:page":"Saint_Anne%2C_Alderney"
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"3bceaffa734112d3c2a64317d1f97d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1309740661,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1309740661,
+    "wof:lastmodified":1537623384,
+    "wof:name":"St Anne",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.20757,
+    49.71549,
+    -2.20757,
+    49.71549
+],
+  "geometry": {"coordinates":[-2.20757,49.71549],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209115997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.35833,49.44222,-2.35833,49.44222",
+    "geom:latitude":49.44222,
+    "geom:longitude":-2.35833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Fort",
+    "gn:country_code":"GG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6608129,
+    "gn:latitude":49.44222,
+    "gn:longitude":-2.35833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Le Fort",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Fort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6608129
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"3765c906b40e35262403d27c9ed2b520",
+    "wof:hierarchy":[
+        {
+            "country_id":85632547,
+            "locality_id":1209115997
+        }
+    ],
+    "wof:id":1209115997,
+    "wof:lastmodified":1537623393,
+    "wof:name":"Le Fort",
+    "wof:parent_id":85632547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.35833,
+    49.44222,
+    -2.35833,
+    49.44222
+],
+  "geometry": {"coordinates":[-2.35833,49.44222],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360004131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58028,49.46222,-2.58028,49.46222",
+    "geom:latitude":49.46222,
+    "geom:longitude":-2.58028,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beaucamps",
+    "gn:country_code":"GG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6422030,
+    "gn:latitude":49.46222,
+    "gn:longitude":-2.58028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beaucamps",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beaucamps"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422030
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"6239fe148792a9154563ed5244ec1bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1360004131,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1360004131,
+    "wof:lastmodified":1537623390,
+    "wof:name":"Beaucamps",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58028,
+    49.46222,
+    -2.58028,
+    49.46222
+],
+  "geometry": {"coordinates":[-2.58028,49.46222],"type":"Point"}
+}

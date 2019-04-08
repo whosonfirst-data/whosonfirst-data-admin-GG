@@ -1,0 +1,68 @@
+{
+  "id": 1276137539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63472,49.44111,-2.63472,49.44111",
+    "geom:latitude":49.44111,
+    "geom:longitude":-2.63472,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Vinaires",
+    "gn:country_code":"GG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6424083,
+    "gn:latitude":49.44111,
+    "gn:longitude":-2.63472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Les Vinaires",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Les Vinaires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6424083
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"e307bdb64d35337521dc569998ea64c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1276137539,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1276137539,
+    "wof:lastmodified":1537623391,
+    "wof:name":"Les Vinaires",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63472,
+    49.44111,
+    -2.63472,
+    49.44111
+],
+  "geometry": {"coordinates":[-2.63472,49.44111],"type":"Point"}
+}

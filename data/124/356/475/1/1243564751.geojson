@@ -1,0 +1,68 @@
+{
+  "id": 1243564751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.52278,49.49028,-2.52278,49.49028",
+    "geom:latitude":49.49028,
+    "geom:longitude":-2.52278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hall",
+    "gn:country_code":"GG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420661,
+    "gn:latitude":49.49028,
+    "gn:longitude":-2.52278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420661
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"e5f911e701d766713a26e55308714332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1243564751,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1243564751,
+    "wof:lastmodified":1537623388,
+    "wof:name":"Hall",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.52278,
+    49.49028,
+    -2.52278,
+    49.49028
+],
+  "geometry": {"coordinates":[-2.52278,49.49028],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225875891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58556,49.43611,-2.58556,49.43611",
+    "geom:latitude":49.43611,
+    "geom:longitude":-2.58556,
+    "gn:admin1_code":"6417223",
+    "gn:asciiname":"Le Roussel",
+    "gn:country_code":"GG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420219,
+    "gn:latitude":49.43611,
+    "gn:longitude":-2.58556,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Le Roussel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Le Roussel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420219
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"e4898af77e1e3bba242754446e5926d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1225875891,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1225875891,
+    "wof:lastmodified":1537623386,
+    "wof:name":"Le Roussel",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58556,
+    49.43611,
+    -2.58556,
+    49.43611
+],
+  "geometry": {"coordinates":[-2.58556,49.43611],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125891733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.623543,49.45454,-2.623543,49.45454",
+    "geom:latitude":49.45454,
+    "geom:longitude":-2.623543,
+    "gn:gn_country":null,
+    "iso:country":"GG",
+    "lbl:latitude":49.45454,
+    "lbl:longitude":-2.623543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GG",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mont St.",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1186614,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20700942,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20700942,
+        "qs_pg:id":1186614
+    },
+    "wof:country":"GG",
+    "wof:created":1497295352,
+    "wof:geomhash":"b555c0c54eb86f5738d2d1cce5509e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1125891733,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1125891733,
+    "wof:lastmodified":1509398838,
+    "wof:name":"Mont St.",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.623543,
+    49.45454,
+    -2.623543,
+    49.45454
+],
+  "geometry": {"coordinates":[-2.623543,49.45454],"type":"Point"}
+}

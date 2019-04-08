@@ -1,0 +1,68 @@
+{
+  "id": 1243182383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53667,49.465,-2.53667,49.465",
+    "geom:latitude":49.465,
+    "geom:longitude":-2.53667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Longstore",
+    "gn:country_code":"GG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420405,
+    "gn:latitude":49.465,
+    "gn:longitude":-2.53667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Longstore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Guernsey",
+    "iso:country":"GG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Longstore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420405
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"13836a068a32ad91dce9abdcccb3a9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "locality_id":1243182383,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":1243182383,
+    "wof:lastmodified":1537623387,
+    "wof:name":"Longstore",
+    "wof:parent_id":85681219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53667,
+    49.465,
+    -2.53667,
+    49.465
+],
+  "geometry": {"coordinates":[-2.53667,49.465],"type":"Point"}
+}
