@@ -40,6 +40,9 @@
     "name:bre_x_preferred":[
         "Sark"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u043a"
+    ],
     "name:cat_x_preferred":[
         "Sark"
     ],
@@ -91,11 +94,17 @@
     "name:glg_x_preferred":[
         "Sark"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0ab0\u0acd\u0a95"
+    ],
     "name:hbs_x_preferred":[
         "Sark"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0930\u094d\u0915"
     ],
     "name:hrv_x_preferred":[
         "Sark"
@@ -118,11 +127,29 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30fc\u30af\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0cb0\u0ccd\u0c95\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ud06c \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\ud06c\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Sargia"
+    ],
+    "name:lav_x_preferred":[
+        "Sarka"
+    ],
     "name:lit_x_preferred":[
         "Sarkas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0930\u094d\u0915"
+    ],
+    "name:msa_x_preferred":[
+        "Sark"
     ],
     "name:nds_nld_x_preferred":[
         "Sark"
@@ -133,6 +160,9 @@
     "name:nno_x_preferred":[
         "Sark"
     ],
+    "name:nob_x_preferred":[
+        "Sark"
+    ],
     "name:nor_x_preferred":[
         "Sark"
     ],
@@ -141,6 +171,9 @@
     ],
     "name:nrm_x_preferred":[
         "Ser"
+    ],
+    "name:oci_x_preferred":[
+        "Sarc"
     ],
     "name:pol_x_preferred":[
         "Sark"
@@ -156,6 +189,9 @@
     ],
     "name:sco_x_preferred":[
         "Sark"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dcf\u0dbb\u0dca\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
         "Sark"
@@ -178,11 +214,20 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
     ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c30\u0c4d\u0c15\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e23\u0e4c\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Sark"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u06a9"
     ],
     "name:vie_x_preferred":[
         "Sark"
@@ -299,7 +344,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1536616805,
+    "wof:lastmodified":1563374579,
     "wof:name":"Sark",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Saint Samsaon"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Sampson"
+    ],
     "name:cor_x_preferred":[
         "Saint Sampson's"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba \u060c \u06af\u0631\u0646\u0632\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba "
     ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125805391,
-    "wof:lastmodified":1561840300,
+    "wof:lastmodified":1563374607,
     "wof:name":"St. Sampson",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",
