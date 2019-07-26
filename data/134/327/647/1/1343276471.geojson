@@ -25,8 +25,23 @@
     "iso:country":"GG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L'Islet"
+    ],
+    "name:deu_x_preferred":[
+        "L\u2019Islet"
+    ],
     "name:eng_x_preferred":[
         "L\u2019Islet"
+    ],
+    "name:fra_x_preferred":[
+        "L'Islet"
+    ],
+    "name:spa_x_preferred":[
+        "L'Islet"
+    ],
+    "name:swe_x_preferred":[
+        "L'Islet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343276471,
-    "wof:lastmodified":1537623389,
+    "wof:lastmodified":1564181708,
     "wof:name":"L'Islet",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

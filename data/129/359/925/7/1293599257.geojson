@@ -25,7 +25,43 @@
     "iso:country":"GG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "The Bridge"
+    ],
+    "name:ces_x_preferred":[
+        "The Bridge"
+    ],
+    "name:deu_x_preferred":[
+        "The Bridge"
+    ],
     "name:eng_x_preferred":[
+        "The Bridge"
+    ],
+    "name:est_x_preferred":[
+        "The Bridge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d2\u05e9\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "The Bridge"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354 \ube0c\ub9ac\uc9c0"
+    ],
+    "name:pol_x_preferred":[
+        "The Bridge"
+    ],
+    "name:por_x_preferred":[
+        "The Bridge"
+    ],
+    "name:slk_x_preferred":[
+        "The Bridge"
+    ],
+    "name:spa_x_preferred":[
+        "The Bridge"
+    ],
+    "name:swe_x_preferred":[
         "The Bridge"
     ],
     "src:geom":"geonames",
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1293599257,
-    "wof:lastmodified":1537623388,
+    "wof:lastmodified":1564181712,
     "wof:name":"The Bridge",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",
