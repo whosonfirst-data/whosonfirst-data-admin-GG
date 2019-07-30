@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Les Salines"
     ],
+    "name:fra_x_preferred":[
+        "Les Mines"
+    ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1126026735,
-    "wof:lastmodified":1509407593,
+    "wof:lastmodified":1564181733,
     "wof:name":"Les Mines",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Le Fort"
     ],
+    "name:fra_x_preferred":[
+        "Le Fort"
+    ],
+    "name:pol_x_preferred":[
+        "Le Fort"
+    ],
+    "name:swe_x_preferred":[
+        "Le Fort"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632547
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209115997,
-    "wof:lastmodified":1537623393,
+    "wof:lastmodified":1564181721,
     "wof:name":"Le Fort",
     "wof:parent_id":85632547,
     "wof:placetype":"locality",

@@ -25,8 +25,95 @@
     "iso:country":"GG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "La Rocque"
+    ],
+    "name:cat_x_preferred":[
+        "La Rocque"
+    ],
+    "name:ceb_x_preferred":[
+        "La Rocque"
+    ],
+    "name:deu_x_preferred":[
+        "La Rocque"
+    ],
     "name:eng_x_preferred":[
         "La Rocque"
+    ],
+    "name:eus_x_preferred":[
+        "La Rocque"
+    ],
+    "name:fra_x_preferred":[
+        "La Rocque"
+    ],
+    "name:hun_x_preferred":[
+        "La Rocque"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054c\u0578\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "La Rocque"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u043a"
+    ],
+    "name:lat_x_preferred":[
+        "La Rocque"
+    ],
+    "name:msa_x_preferred":[
+        "La Rocque"
+    ],
+    "name:nld_x_preferred":[
+        "La Rocque"
+    ],
+    "name:oci_x_preferred":[
+        "La Rocque"
+    ],
+    "name:pms_x_preferred":[
+        "La Rocque"
+    ],
+    "name:pol_x_preferred":[
+        "La Rocque"
+    ],
+    "name:por_x_preferred":[
+        "La Rocque"
+    ],
+    "name:ron_x_preferred":[
+        "La Rocque"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "La Rocque"
+    ],
+    "name:spa_x_preferred":[
+        "La Rocque"
+    ],
+    "name:swe_x_preferred":[
+        "La Rocque"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0631\u0648\u06a9\u0648\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "La Rocque"
+    ],
+    "name:vie_x_preferred":[
+        "La Rocque"
+    ],
+    "name:vol_x_preferred":[
+        "La Rocque"
+    ],
+    "name:war_x_preferred":[
+        "La Rocque"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7f57\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +136,7 @@
         }
     ],
     "wof:id":1310615589,
-    "wof:lastmodified":1537623391,
+    "wof:lastmodified":1564181726,
     "wof:name":"La Rocque",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

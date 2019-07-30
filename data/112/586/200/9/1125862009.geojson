@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Le Landes"
     ],
+    "name:fra_x_preferred":[
+        "Les Landes"
+    ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125862009,
-    "wof:lastmodified":1509396691,
+    "wof:lastmodified":1564181737,
     "wof:name":"Les Landes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

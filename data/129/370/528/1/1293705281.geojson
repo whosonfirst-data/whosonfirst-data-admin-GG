@@ -25,7 +25,25 @@
     "iso:country":"GG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09cc\u09a4\u09c7\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Butes"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03cd\u03c4\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Butes"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
         "Butes"
     ],
     "src:geom":"geonames",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293705281,
-    "wof:lastmodified":1537623393,
+    "wof:lastmodified":1564181710,
     "wof:name":"Butes",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",
