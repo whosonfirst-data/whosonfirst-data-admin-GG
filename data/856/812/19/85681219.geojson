@@ -9,8 +9,10 @@
     "geom:bbox":"-2.67345130084,49.4115664734,-2.17031816275,49.7313906918",
     "geom:latitude":49.484517,
     "geom:longitude":-2.531635,
-    "gn:id":"",
     "iso:country":"GG",
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":49.463533,
     "lbl:longitude":-2.561737,
     "mps:latitude":49.463533,
@@ -317,10 +319,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":0,
         "gp:id":23700853,
-        "hasc:id":"GG",
         "m49:code":"680",
         "qs:id":425419,
         "wd:id":"Q3405693"
@@ -335,21 +334,18 @@
         }
     ],
     "wof:id":85681219,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374579,
+    "wof:lastmodified":1565829397,
     "wof:name":"Sark",
     "wof:parent_id":85632547,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
-    "wof:shortcode":"GG",
+    "wof:shortcode":"SK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -14,6 +14,9 @@
     "itu:country_code":[
         "44"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GG"
+    ],
     "lbl:latitude":49.454813,
     "lbl:longitude":-2.566659,
     "mps:latitude":49.454813,
@@ -645,7 +648,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374578,
+    "wof:lastmodified":1565712520,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
