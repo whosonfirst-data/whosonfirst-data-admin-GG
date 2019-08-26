@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Guernsey",
     "iso:country":"GG",
+    "lbl:bbox":"-2.23164,49.6991,-2.19164,49.7391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "La Picaterre"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277089105,
-    "wof:lastmodified":1537623393,
+    "wof:lastmodified":1566637487,
     "wof:name":"La Picaterre",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

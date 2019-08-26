@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Guernsey",
     "iso:country":"GG",
+    "lbl:bbox":"-2.64833,49.42,-2.60833,49.46",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Les Islets"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327040219,
-    "wof:lastmodified":1537623391,
+    "wof:lastmodified":1566637480,
     "wof:name":"Les Islets",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Guernsey",
     "iso:country":"GG",
+    "lbl:bbox":"-2.38306,49.40472,-2.34306,49.44472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632547
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209629855,
-    "wof:lastmodified":1536281226,
+    "wof:lastmodified":1566637489,
     "wof:name":"Le Clos Bourel",
     "wof:parent_id":85632547,
     "wof:placetype":"locality",
