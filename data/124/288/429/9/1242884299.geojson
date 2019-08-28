@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Guernsey",
     "iso:country":"GG",
+    "lbl:bbox":"-2.6325,49.44278,-2.5925,49.48278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vazon"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242884299,
-    "wof:lastmodified":1537623391,
+    "wof:lastmodified":1566637510,
     "wof:name":"Vazon",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",

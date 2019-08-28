@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Guernsey",
     "iso:country":"GG",
+    "lbl:bbox":"-2.62528,49.40472,-2.58528,49.44472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1193052391,
-    "wof:lastmodified":1536365136,
+    "wof:lastmodified":1566637492,
     "wof:name":"Le Bigard",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

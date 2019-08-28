@@ -12,6 +12,7 @@
     "iso:country":"GG",
     "lbl:latitude":49.47513,
     "lbl:longitude":-2.450409,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.47513,
     "mps:longitude":-2.450409,
     "mz:hierarchy_label":0,
@@ -34,7 +35,7 @@
     "qs:type":"Admin-1 minor island",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632547
@@ -57,7 +58,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1536173686,
+    "wof:lastmodified":1566637483,
     "wof:name":"Minor islands of Guernsey",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

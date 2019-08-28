@@ -9,16 +9,18 @@
     "geom:bbox":"-2.55861677327,49.4447004513,-2.52533372447,49.4706706391",
     "geom:latitude":49.457603,
     "geom:longitude":-2.542372,
-    "gn:gn_country":"GG",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":16488,
+    "gn:country":"GG",
+    "gn:fcode":"PPLC",
     "gn:population":16488,
     "iso:country":"GG",
     "lbl:latitude":49.45981,
     "lbl:longitude":-2.53527,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Saint Peter Port"
@@ -248,7 +250,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -274,7 +276,7 @@
         }
     ],
     "wof:id":1125821075,
-    "wof:lastmodified":1563374618,
+    "wof:lastmodified":1566637507,
     "wof:name":"Saint Peter Port",
     "wof:parent_id":85681219,
     "wof:placetype":"locality",
