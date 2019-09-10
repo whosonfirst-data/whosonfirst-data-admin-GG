@@ -52,7 +52,8 @@
     "wof:belongsto":[
         102191581,
         85632547,
-        85681219
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85632547,
+            "empire_id":136253055,
             "localadmin_id":1125304023,
-            "region_id":85681219
+            "region_id":1477797913
         }
     ],
     "wof:id":1125304023,
-    "wof:lastmodified":1566637503,
+    "wof:lastmodified":1568146868,
     "wof:name":"Torteval",
-    "wof:parent_id":85681219,
+    "wof:parent_id":1477797913,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632547
+        102191581,
+        85632547,
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"bba57a4a4c79984fe0c84549ccf251ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632547,
-            "locality_id":1209324867
+            "empire_id":136253055,
+            "locality_id":1209324867,
+            "region_id":1477797913
         }
     ],
     "wof:id":1209324867,
-    "wof:lastmodified":1566637490,
+    "wof:lastmodified":1568146760,
     "wof:name":"Hougue Anthan",
-    "wof:parent_id":85632547,
+    "wof:parent_id":1477797913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

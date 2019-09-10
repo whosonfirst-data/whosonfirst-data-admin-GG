@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632547
+        102191581,
+        85632547,
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"fb297e66f36b226b7c40bee73136dec4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632547,
-            "locality_id":1209525593
+            "empire_id":136253055,
+            "locality_id":1209525593,
+            "region_id":1477797913
         }
     ],
     "wof:id":1209525593,
-    "wof:lastmodified":1566637490,
+    "wof:lastmodified":1568146877,
     "wof:name":"Pulais",
-    "wof:parent_id":85632547,
+    "wof:parent_id":1477797913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

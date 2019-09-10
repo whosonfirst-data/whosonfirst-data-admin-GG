@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85632547,
-        136253055
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +63,13 @@
             "country_id":85632547,
             "empire_id":136253055,
             "localadmin_id":1125321817,
-            "region_id":-1
+            "region_id":1477797913
         }
     ],
     "wof:id":1125321817,
-    "wof:lastmodified":1566637500,
+    "wof:lastmodified":1568146752,
     "wof:name":"St Martin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477797913,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

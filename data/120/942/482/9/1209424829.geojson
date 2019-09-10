@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632547
+        102191581,
+        85632547,
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"5aac11bfcb4ae8ee104a4ef18eb9b758",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632547,
-            "locality_id":1209424829
+            "empire_id":136253055,
+            "locality_id":1209424829,
+            "region_id":1477797913
         }
     ],
     "wof:id":1209424829,
-    "wof:lastmodified":1566637491,
+    "wof:lastmodified":1568146875,
     "wof:name":"Les Genats",
-    "wof:parent_id":85632547,
+    "wof:parent_id":1477797913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],
