@@ -510,11 +510,22 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:country":"GG",
     "wof:geomhash":"00cf08c9365eec1fbc42d2efc759ba38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "region_id":1477797913
+        }
+    ],
     "wof:id":1477797913,
     "wof:lang_x_official":[
         "eng"
@@ -522,9 +533,9 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141792,
+    "wof:lastmodified":1568146974,
     "wof:name":"Guernsey",
-    "wof:parent_id":-1,
+    "wof:parent_id":85632547,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

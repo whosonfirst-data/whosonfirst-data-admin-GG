@@ -39,7 +39,8 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        85632547
+        85632547,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
         {
             "continent_id":102191581,
             "country_id":85632547,
+            "empire_id":136253055,
             "region_id":85681223
         }
     ],
@@ -59,7 +61,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141802,
+    "wof:lastmodified":1568146995,
     "wof:name":"Minor islands of Guernsey",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

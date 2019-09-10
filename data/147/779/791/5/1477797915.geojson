@@ -309,7 +309,11 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85632547,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23700853,
@@ -319,7 +323,14 @@
     },
     "wof:country":"GG",
     "wof:geomhash":"4349be1b569f3afd85afb4484a67a369",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "region_id":1477797915
+        }
+    ],
     "wof:id":1477797915,
     "wof:lang_x_official":[
         "eng"
@@ -327,9 +338,9 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568142142,
+    "wof:lastmodified":1568146978,
     "wof:name":"Sark",
-    "wof:parent_id":-1,
+    "wof:parent_id":85632547,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

@@ -100,7 +100,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632547
+        102191581,
+        85632547,
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,14 +113,17 @@
     "wof:geomhash":"d289fbf49fe744832b7ad0528db7d858",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632547,
-            "locality_id":1209525603
+            "empire_id":136253055,
+            "locality_id":1209525603,
+            "region_id":1477797913
         }
     ],
     "wof:id":1209525603,
-    "wof:lastmodified":1566637490,
+    "wof:lastmodified":1568146877,
     "wof:name":"Amherst",
-    "wof:parent_id":85632547,
+    "wof:parent_id":1477797913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],

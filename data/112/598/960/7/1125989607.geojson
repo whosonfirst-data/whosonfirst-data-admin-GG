@@ -51,7 +51,8 @@
     "wof:belongsto":[
         102191581,
         85632547,
-        136253055
+        136253055,
+        1477797913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +69,13 @@
             "country_id":85632547,
             "empire_id":136253055,
             "locality_id":1125989607,
-            "region_id":-1
+            "region_id":1477797913
         }
     ],
     "wof:id":1125989607,
-    "wof:lastmodified":1566637506,
+    "wof:lastmodified":1568146759,
     "wof:name":"Jerbourg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477797913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],
