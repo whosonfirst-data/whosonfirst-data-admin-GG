@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
     "geom:area_square_m":1053785.523262,
@@ -16,7 +17,7 @@
     "mps:latitude":49.47513,
     "mps:longitude":-2.450409,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
@@ -58,7 +59,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566637483,
+    "wof:lastmodified":1568141217,
     "wof:name":"Minor islands of Guernsey",
     "wof:parent_id":85632547,
     "wof:placetype":"region",
