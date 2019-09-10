@@ -311,6 +311,12 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700853,
+        "m49:code":"680",
+        "qs_pg:id":425419,
+        "wd:id":"Q3405693"
+    },
     "wof:country":"GG",
     "wof:geomhash":"4349be1b569f3afd85afb4484a67a369",
     "wof:hierarchy":[],
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141796,
+    "wof:lastmodified":1568142142,
     "wof:name":"Sark",
     "wof:parent_id":-1,
     "wof:placetype":"region",
