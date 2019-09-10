@@ -342,13 +342,17 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141212,
+    "wof:lastmodified":1568141806,
     "wof:name":"Sark",
     "wof:parent_id":85632547,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:shortcode":"SK",
-    "wof:superseded_by":[1477797919,1477797915,1477797913],
+    "wof:superseded_by":[
+        1477797919,
+        1477797915,
+        1477797913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

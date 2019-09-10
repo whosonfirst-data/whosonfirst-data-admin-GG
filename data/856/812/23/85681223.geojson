@@ -59,12 +59,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141217,
+    "wof:lastmodified":1568141802,
     "wof:name":"Minor islands of Guernsey",
     "wof:parent_id":85632547,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
-    "wof:superseded_by":[1477797913],
+    "wof:superseded_by":[
+        1477797913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

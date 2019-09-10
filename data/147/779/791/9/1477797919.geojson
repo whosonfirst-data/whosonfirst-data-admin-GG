@@ -10,6 +10,9 @@
     "geom:latitude":49.71673,
     "geom:longitude":-2.203946,
     "iso:country":"GG",
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":49.714804,
     "lbl:longitude":-2.199215,
     "mps:latitude":49.714804,
@@ -33,13 +36,15 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1568141411,
+    "wof:lastmodified":1568141798,
     "wof:name":"Alderney",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:superseded_by":[],
-    "wof:supersedes":[85681219],
+    "wof:supersedes":[
+        85681219
+    ],
     "wof:tags":[]
 },
   "bbox": [
