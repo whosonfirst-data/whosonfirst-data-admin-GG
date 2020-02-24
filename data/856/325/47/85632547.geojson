@@ -634,6 +634,10 @@
     },
     "wof:country":"GG",
     "wof:country_alpha3":"GGY",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"56abb7361d23a6c2dee78350067616fa",
     "wof:hierarchy":[
         {
@@ -649,7 +653,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566637483,
+    "wof:lastmodified":1582346824,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
