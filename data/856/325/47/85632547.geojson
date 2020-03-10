@@ -618,9 +618,7 @@
         1125821075
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            831
-        ],
+        "digitalenvoy:country_code":831,
         "fifa:id":"GBG",
         "fips:code":"GK",
         "gaul:id":"104",
@@ -656,7 +654,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529134,
+    "wof:lastmodified":1583797339,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
