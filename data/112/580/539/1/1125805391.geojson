@@ -72,7 +72,7 @@
         "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba \u060c \u06af\u0631\u0646\u0632\u06cc"
     ],
     "name:urd_x_variant":[
-        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba "
+        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba"
     ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1125805391,
-    "wof:lastmodified":1568146871,
+    "wof:lastmodified":1587163113,
     "wof:name":"St. Sampson",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",
