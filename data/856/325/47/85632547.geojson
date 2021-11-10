@@ -270,11 +270,11 @@
         "Gwasi"
     ],
     "name:kor_x_preferred":[
-        "\uac74\uc9c0 \uc12c"
+        "\uac74\uc9c0"
     ],
     "name:kor_x_variant":[
-        "\uac74\uc9c0",
-        "\uac74\uc9c0\uc12c"
+        "\uac74\uc9c0\uc12c",
+        "\uac74\uc9c0 \uc12c"
     ],
     "name:kur_x_preferred":[
         "Guernsey"
@@ -718,7 +718,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827543,
+    "wof:lastmodified":1636501281,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -105,6 +105,9 @@
         "Sveti Juraj"
     ],
     "name:hun_x_preferred":[
+        "Saint George"
+    ],
+    "name:hun_x_variant":[
         "Szent Gy\u00f6rgy"
     ],
     "name:hye_x_preferred":[
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":1326448733,
-    "wof:lastmodified":1568146890,
+    "wof:lastmodified":1636501281,
     "wof:name":"Saint George",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",

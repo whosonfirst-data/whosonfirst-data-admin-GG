@@ -108,6 +108,9 @@
         "Sveti Andrija"
     ],
     "name:hun_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:hun_x_variant":[
         "Andr\u00e1s apostol"
     ],
     "name:hye_x_preferred":[
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":1293701289,
-    "wof:lastmodified":1568146883,
+    "wof:lastmodified":1636501281,
     "wof:name":"Saint Andrew",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",
