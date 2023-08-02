@@ -79,6 +79,9 @@
     "name:und_x_variant":[
         "Torteval Church"
     ],
+    "name:zho_x_preferred":[
+        "\u6258\u7279\u74e6\u723e"
+    ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
     "qs_pg:gn_fcode":"PPL",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1125907431,
-    "wof:lastmodified":1568146873,
+    "wof:lastmodified":1690921639,
     "wof:name":"Torteval",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",

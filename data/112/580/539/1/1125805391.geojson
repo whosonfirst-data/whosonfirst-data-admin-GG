@@ -62,8 +62,17 @@
     "name:pol_x_preferred":[
         "St Sampson's"
     ],
+    "name:pol_x_variant":[
+        "St Sampson\u2019s"
+    ],
     "name:por_x_preferred":[
         "Saint Sampson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0421\u0430\u043c\u043f\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Saint Samsaon"
     ],
     "name:swe_x_preferred":[
         "Saint Sampson"
@@ -72,7 +81,11 @@
         "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba \u060c \u06af\u0631\u0646\u0632\u06cc"
     ],
     "name:urd_x_variant":[
-        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba"
+        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba",
+        "\u0633\u06cc\u0646\u0679 \u0633\u0645\u067e\u0633\u0648\u06ba "
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6851\u666e\u68ee"
     ],
     "qs_pg:aaroncc":"GG",
     "qs_pg:gn_country":"GG",
@@ -126,7 +139,7 @@
         }
     ],
     "wof:id":1125805391,
-    "wof:lastmodified":1587163113,
+    "wof:lastmodified":1690921639,
     "wof:name":"St. Sampson",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",

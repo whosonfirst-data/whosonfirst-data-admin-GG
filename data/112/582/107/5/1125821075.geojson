@@ -28,14 +28,23 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u064a\u062a\u0631 \u0628\u0648\u0631\u062a"
     ],
+    "name:arg_x_preferred":[
+        "Saint Pierre Port"
+    ],
     "name:ast_x_preferred":[
         "Saint Peter Port"
+    ],
+    "name:ast_x_variant":[
+        "Puertu San Pedru"
     ],
     "name:aze_x_preferred":[
         "Sent Piter Port"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043d\u0442-\u041f\u0456\u0442\u044d\u0440-\u041f\u043e\u0440\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u041f\u0456\u0442\u044d\u0440-\u041f\u043e\u0440\u0442"
     ],
     "name:bre_x_preferred":[
         "Saint Pierre Port"
@@ -67,6 +76,9 @@
     "name:deu_x_preferred":[
         "Saint Peter Port"
     ],
+    "name:diq_x_preferred":[
+        "St. Peter Port"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03bd\u03c4 \u03a0\u03af\u03c4\u03b5\u03c1 \u03a0\u03bf\u03c1\u03c4"
     ],
@@ -97,11 +109,17 @@
     "name:gla_x_preferred":[
         "St. Peter Port"
     ],
+    "name:gle_x_preferred":[
+        "Saint Peter Port"
+    ],
     "name:glg_x_preferred":[
         "Saint Peter Port"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8 \u05e4\u05d9\u05d8\u05e8 \u05e4\u05d5\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092a\u0940\u091f\u0930 \u092a\u094b\u0930\u094d\u091f"
     ],
     "name:hrv_x_preferred":[
         "St. Peter Port"
@@ -116,6 +134,9 @@
         "Saint Peter Port"
     ],
     "name:ind_x_preferred":[
+        "Saint Peter Port"
+    ],
+    "name:isl_x_preferred":[
         "Saint Peter Port"
     ],
     "name:ita_x_preferred":[
@@ -151,6 +172,9 @@
     "name:mri_x_preferred":[
         "St Peter Port"
     ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0646\u062a \u067e\u062a\u0631 \u067e\u0648\u0631\u062a"
+    ],
     "name:nan_x_preferred":[
         "Saint Peter Port"
     ],
@@ -165,6 +189,9 @@
     ],
     "name:nob_x_preferred":[
         "St Peter Port"
+    ],
+    "name:nob_x_variant":[
+        "Saint Peter Port"
     ],
     "name:nor_x_preferred":[
         "St Peter Port"
@@ -232,6 +259,9 @@
     "name:war_x_preferred":[
         "St. Peter Port"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5f7c\u5f97\u6e2f"
+    ],
     "name:zho_x_preferred":[
         "\u5723\u5f7c\u5f97\u6e2f"
     ],
@@ -283,7 +313,7 @@
         }
     ],
     "wof:id":1125821075,
-    "wof:lastmodified":1607390892,
+    "wof:lastmodified":1690921640,
     "wof:name":"Saint Peter Port",
     "wof:parent_id":1477797913,
     "wof:placetype":"locality",

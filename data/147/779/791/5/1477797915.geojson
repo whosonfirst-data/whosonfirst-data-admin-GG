@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0631\u0643"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0440\u043a"
     ],
@@ -200,6 +203,9 @@
     "name:slv_x_preferred":[
         "Sark"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0627\u0631\u06aa"
+    ],
     "name:spa_x_preferred":[
         "Sark"
     ],
@@ -235,6 +241,12 @@
     ],
     "name:vls_x_preferred":[
         "Sark"
+    ],
+    "name:war_x_preferred":[
+        "Sark"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u514b\u5c9b"
     ],
     "name:zho_cn_x_preferred":[
         "\u8428\u514b\u5c9b"
@@ -345,7 +357,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501284,
+    "wof:lastmodified":1690921640,
     "wof:name":"Sark",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

@@ -42,11 +42,17 @@
     "name:ang_x_preferred":[
         "Guernsey"
     ],
+    "name:anp_x_preferred":[
+        "\u0917\u0941\u090f\u0928\u0930\u094d\u0938\u0947"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u064a\u0631\u0646\u0632\u064a"
     ],
     "name:arg_x_preferred":[
         "Guern\u00e9si"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0631\u0646\u0632\u0649"
     ],
     "name:ast_x_preferred":[
         "Guernsey"
@@ -71,6 +77,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u099e\u09cd\u099c\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u0997\u09be\u09b0\u09cd\u09a8\u09b8\u09bf"
     ],
     "name:bos_x_preferred":[
         "Guernsey"
@@ -121,6 +130,9 @@
     "name:deu_x_preferred":[
         "Guernsey"
     ],
+    "name:diq_x_preferred":[
+        "Guernsey"
+    ],
     "name:div_x_preferred":[
         "\u078e\u07aa\u0787\u07a7\u0782\u07b0\u0790\u07ad"
     ],
@@ -128,7 +140,8 @@
         "\u0393\u03ba\u03ad\u03c1\u03bd\u03c3\u03b5\u03ca"
     ],
     "name:ell_x_variant":[
-        "\u0393\u03ba\u03b5\u03c1\u03bd\u03c3\u03ad\u03b9"
+        "\u0393\u03ba\u03b5\u03c1\u03bd\u03c3\u03ad\u03b9",
+        "\u0393\u03ba\u03ad\u03c1\u03bd\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Guernsey"
@@ -193,6 +206,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0ac7\u0ab0\u0acd\u0aa8\u0ab8\u0ac7"
+    ],
+    "name:hak_x_preferred":[
+        "Guernsey"
     ],
     "name:hau_x_preferred":[
         "Guernsey"
@@ -269,6 +285,9 @@
     "name:kin_x_preferred":[
         "Gwasi"
     ],
+    "name:kir_x_preferred":[
+        "\u0413\u0435\u0440\u043d\u0441\u0438"
+    ],
     "name:kor_x_preferred":[
         "\uac74\uc9c0"
     ],
@@ -281,6 +300,9 @@
     ],
     "name:lat_x_preferred":[
         "Lisia"
+    ],
+    "name:lat_x_variant":[
+        "Sarnia insula"
     ],
     "name:lav_x_preferred":[
         "G\u0113rnsija"
@@ -320,6 +342,9 @@
     ],
     "name:mar_x_variant":[
         "\u0917\u094d\u0935\u0947\u0930\u094d\u0928\u0938\u0947"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u044d\u0440\u043d\u0441\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0435\u0440\u043d\u0437\u0438"
@@ -424,7 +449,8 @@
         "\u0413\u0435\u0440\u043d\u0437\u0438"
     ],
     "name:srp_x_variant":[
-        "\u0413\u0443\u0440\u043d\u0441\u0438"
+        "\u0413\u0443\u0440\u043d\u0441\u0438",
+        "\u0411\u0435\u0458\u043b\u0438\u0432\u0438\u043a \u0413\u0435\u0440\u043d\u0437\u0438"
     ],
     "name:sun_x_preferred":[
         "Guernsey"
@@ -476,6 +502,9 @@
     ],
     "name:urd_x_variant":[
         "\u06af\u0648\u0626\u0631\u0646\u0633\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Gernsi"
     ],
     "name:vie_x_preferred":[
         "Guernsey"
@@ -718,7 +747,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501281,
+    "wof:lastmodified":1690921638,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
