@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001207,
-    "geom:area_square_m":9649994.403472,
+    "geom:area_square_m":9650002.172694,
     "geom:bbox":"-2.388722,49.690388,-2.155306,49.73875",
     "geom:latitude":49.71673,
     "geom:longitude":-2.203946,
     "iso:country":"GG",
+    "label:eng_x_preferred_longname":[
+        "Alderney"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-jurisdiction"
+    ],
     "label:eng_x_preferred_shortcode":[
         "AL"
     ],
@@ -40,7 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"GG",
-    "wof:geomhash":"79873390ec2134b5b603d928bf89a9af",
+    "wof:geomhash":"a6b7559f8f33760c9c05165c6b7a867e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +62,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501283,
+    "wof:lastmodified":1694493259,
     "wof:name":"Alderney",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

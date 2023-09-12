@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010632,
-    "geom:area_square_m":85409998.779519,
+    "geom:area_square_m":85410074.275686,
     "geom:bbox":"-2.709556,49.400391,-2.155306,49.73875",
     "geom:latitude":49.484744,
     "geom:longitude":-2.516711,
@@ -13,6 +13,9 @@
     "iso:country":"GG",
     "itu:country_code":[
         "44"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GG"
@@ -685,7 +688,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"44",
     "statoids:ds":"GBG",
     "statoids:fifa":"GBG",
@@ -732,7 +736,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"aec2976ff48e0a82fa906e2216449109",
+    "wof:geomhash":"0526f644957aefbb3b22643ad3593b33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -747,12 +751,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921638,
+    "wof:lastmodified":1694492215,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":65228,
-    "wof:population_rank":8,
+    "wof:population":62792,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gg",
     "wof:shortcode":"GG",
     "wof:superseded_by":[],
