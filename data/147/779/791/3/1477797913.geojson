@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008549,
-    "geom:area_square_m":68708679.624244,
+    "geom:area_square_m":68708680.814203,
     "geom:bbox":"-2.709556,49.417057,-2.439528,49.510445",
     "geom:latitude":49.457659,
     "geom:longitude":-2.576433,
     "iso:country":"GG",
+    "label:eng_x_preferred_placetype":[
+        "sub-jurisdiction"
+    ],
     "label:eng_x_preferred_shortcode":[
         "GG"
     ],
@@ -517,7 +520,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"GG",
-    "wof:geomhash":"42646e93e3d7ff6dd09e08b1d7e2bb76",
+    "wof:geomhash":"25fbf1837cfc31716fc6f266decbd3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -533,7 +536,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501283,
+    "wof:lastmodified":1694493259,
     "wof:name":"Guernsey",
     "wof:parent_id":85632547,
     "wof:placetype":"region",

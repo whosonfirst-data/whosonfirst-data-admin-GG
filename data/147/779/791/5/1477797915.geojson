@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":7051324.751803,
+    "geom:area_square_m":7051391.28879,
     "geom:bbox":"-2.395389,49.400391,-2.337861,49.45211",
     "geom:latitude":49.429465,
     "geom:longitude":-2.364997,
     "iso:country":"GG",
+    "label:eng_x_preferred_longname":[
+        "Sark"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-jurisdiction"
+    ],
     "label:eng_x_preferred_shortcode":[
         "SK"
     ],
@@ -341,7 +347,7 @@
         "wd:id":"Q3405693"
     },
     "wof:country":"GG",
-    "wof:geomhash":"fc4c42d144d984ae50ba9e3151d213c7",
+    "wof:geomhash":"c0a773ff305d8a5d93199c16559476d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -357,7 +363,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921640,
+    "wof:lastmodified":1694493259,
     "wof:name":"Sark",
     "wof:parent_id":85632547,
     "wof:placetype":"region",
