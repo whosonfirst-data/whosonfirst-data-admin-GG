@@ -721,6 +721,7 @@
         "gn:id":3042362,
         "gp:id":23424827,
         "hasc:id":"GG",
+        "iso:code":"GG",
         "m49:code":"831",
         "marc:id":"uik",
         "mzb:id":"guernsey",
@@ -730,6 +731,7 @@
         "uncrt:id":"GBG",
         "wd:id":"Q25230"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GG",
     "wof:country_alpha3":"GGY",
     "wof:geom_alt":[
@@ -751,7 +753,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Guernsey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
